@@ -1,41 +1,41 @@
 #EXTM3U url-tvg="http://iptv-org.github.io/epg/guides/ru/tv.xml.gz"
 #EXTINF:-1 tvg-id="1tv.ru" tvg-name="Первый канал" tvg-logo="",Первый канал
-https://plmgr-moretv.cdnvideo.ru/1tvstream/playlist.m3u8
+https://stream.1tv.ru/live/index.m3u8
 #EXTINF:-1 tvg-id="russia1.ru" tvg-name="Россия 1" tvg-logo="",Россия 1
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-id="matchtv.ru" tvg-name="Матч ТВ" tvg-logo="",Матч ТВ
-https://smotrim.ru/channel/263/stream.m3u8
-#EXTINF:-1 tvg-id="ntv.ru" tvg-name="НТВ" tvg-logo="",НТВ
-https://www.ntv.ru/air/ntv/stream.m3u8
+https://vgtrk.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="5tv.ru" tvg-name="Пятый канал" tvg-logo="",Пятый канал
-https://www.5-tv.ru/LIVE/stream.m3u8
-#EXTINF:-1 tvg-id="russia24.ru" tvg-name="Россия 24" tvg-logo="",Россия 24
-https://smotrim.ru/channel/3/stream.m3u8
-#EXTINF:-1 tvg-id="tvc.ru" tvg-name="ТВ Центр" tvg-logo="",ТВ Центр
-https://www.tvc.ru/live/stream.m3u8
-#EXTINF:-1 tvg-id="zvezda.ru" tvg-name="Звезда" tvg-logo="",Звезда
-https://tvzvezda.ru/player.html?stream=m3u8
+https://5-tv.cdnvideo.ru/5tv/0/5tv-hd/index.m3u8
+#EXTINF:-1 tvg-id="ntv.ru" tvg-name="НТВ" tvg-logo="",НТВ
+https://ntv-hls.cdnvideo.ru/ntv/0/ntv-hd/index.m3u8
 #EXTINF:-1 tvg-id="tnt.ru" tvg-name="ТНТ" tvg-logo="",ТНТ
-https://tnt-online.ru/stream.m3u8
+https://tnt-hls.cdnvideo.ru/tnt/0/tnt-hd/index.m3u8
 #EXTINF:-1 tvg-id="ctc.ru" tvg-name="СТС" tvg-logo="",СТС
-https://ctc-online.ru/stream.m3u8
-#EXTINF:-1 tvg-id="domashniy.ru" tvg-name="Домашний" tvg-logo="",Домашний
-https://domashniy-online.ru/stream.m3u8
-#EXTINF:-1 tvg-id="ren.ru" tvg-name="РЕН ТВ" tvg-logo="",РЕН ТВ
-https://ren-tv.online/stream.m3u8
-#EXTINF:-1 tvg-id="spas.ru" tvg-name="Спас" tvg-logo="",Спас
-https://spastv.ru/stream.m3u8
+https://ctc-hls.cdnvideo.ru/ctc/0/ctc-hd/index.m3u8
+#EXTINF:-1 tvg-id="tvc.ru" tvg-name="ТВ Центр" tvg-logo="",ТВ Центр
+https://tvc-hls.cdnvideo.ru/tvc/0/tvc-hd/index.m3u8
+#EXTINF:-1 tvg-id="zvezda.ru" tvg-name="Звезда" tvg-logo="",Звезда
+https://zvezda-hls.cdnvideo.ru/zvezda/0/zvezda-hd/index.m3u8
 #EXTINF:-1 tvg-id="mir.ru" tvg-name="Мир" tvg-logo="",Мир
-https://mir24.tv/stream.m3u8
-#EXTINF:-1 tvg-id="muztv.ru" tvg-name="Муз-ТВ" tvg-logo="",Муз-ТВ
-https://muz-tv.online/stream.m3u8
+https://mir-hls.cdnvideo.ru/mir/0/mir-hd/index.m3u8
+#EXTINF:-1 tvg-id="spas.ru" tvg-name="Спас" tvg-logo="",Спас
+https://spas-hls.cdnvideo.ru/spas/0/spas-hd/index.m3u8
+#EXTINF:-1 tvg-id="domashniy.ru" tvg-name="Домашний" tvg-logo="",Домашний
+https://domashniy-hls.cdnvideo.ru/domashniy/0/domashniy-hd/index.m3u8
+#EXTINF:-1 tvg-id="pyatnitsa.ru" tvg-name="Пятница!" tvg-logo="",Пятница!
+https://pyatnitsa-hls.cdnvideo.ru/pyatnitsa/0/pyatnitsa-hd/index.m3u8
 #EXTINF:-1 tvg-id="karusel.ru" tvg-name="Карусель" tvg-logo="",Карусель
-https://karusel-tv.ru/stream.m3u8
+https://karusel-hls.cdnvideo.ru/karusel/0/karusel-hd/index.m3u8
+#EXTINF:-1 tvg-id="muztv.ru" tvg-name="Муз-ТВ" tvg-logo="",Муз-ТВ
+https://muztv-hls.cdnvideo.ru/muztv/0/muztv-hd/index.m3u8
+#EXTINF:-1 tvg-id="yu.ru" tvg-name="Ю" tvg-logo="",Ю
+https://yu-hls.cdnvideo.ru/yu/0/yu-hd/index.m3u8
+#EXTINF:-1 tvg-id="2x2.ru" tvg-name="2х2" tvg-logo="",2х2
+https://2x2-hls.cdnvideo.ru/2x2/0/2x2-hd/index.m3u8
+#EXTINF:-1 tvg-id="otr.ru" tvg-name="ОТР" tvg-logo="",ОТР
+https://otr-hls.cdnvideo.ru/otr/0/otr-hd/index.m3u8
+#EXTINF:-1 tvg-id="tv3.ru" tvg-name="ТВ-3" tvg-logo="",ТВ-3
+https://tv3-hls.cdnvideo.ru/tv3/0/tv3-hd/index.m3u8
+#EXTINF:-1 tvg-id="ren.ru" tvg-name="РЕН ТВ" tvg-logo="",РЕН ТВ
+https://ren-hls.cdnvideo.ru/ren/0/ren-hd/index.m3u8
 #EXTINF:-1 tvg-id="kultura.ru" tvg-name="Культура" tvg-logo="",Культура
-https://culture-online.ru/stream.m3u8
-#EXTINF:-1 tvg-id="che.ru" tvg-name="ЧЕ!" tvg-logo="",ЧЕ!
-https://che-online.ru/stream.m3u8
-#EXTINF:-1 tvg-id="friday.ru" tvg-name="Пятница!" tvg-logo="",Пятница!
-https://friday-online.ru/stream.m3u8
-#EXTINF:-1 tvg-id="super.ru" tvg-name="Суббота!" tvg-logo="",Суббота!
-https://super-online.ru/stream.m3u8
+https://kultura-hls.cdnvideo.ru/kultura/0/kultura-hd/index.m3u8
