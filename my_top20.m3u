@@ -1,0 +1,41 @@
+#EXTM3U url-tvg="http://iptv-org.github.io/epg/guides/ru/tv.xml.gz"
+#EXTINF:-1 tvg-id="1tv.ru" tvg-name="Первый канал" tvg-logo="",Первый канал
+https://plmgr-moretv.cdnvideo.ru/1tvstream/playlist.m3u8
+#EXTINF:-1 tvg-id="russia1.ru" tvg-name="Россия 1" tvg-logo="",Россия 1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="matchtv.ru" tvg-name="Матч ТВ" tvg-logo="",Матч ТВ
+https://smotrim.ru/channel/263/stream.m3u8
+#EXTINF:-1 tvg-id="ntv.ru" tvg-name="НТВ" tvg-logo="",НТВ
+https://www.ntv.ru/air/ntv/stream.m3u8
+#EXTINF:-1 tvg-id="5tv.ru" tvg-name="Пятый канал" tvg-logo="",Пятый канал
+https://www.5-tv.ru/LIVE/stream.m3u8
+#EXTINF:-1 tvg-id="russia24.ru" tvg-name="Россия 24" tvg-logo="",Россия 24
+https://smotrim.ru/channel/3/stream.m3u8
+#EXTINF:-1 tvg-id="tvc.ru" tvg-name="ТВ Центр" tvg-logo="",ТВ Центр
+https://www.tvc.ru/live/stream.m3u8
+#EXTINF:-1 tvg-id="zvezda.ru" tvg-name="Звезда" tvg-logo="",Звезда
+https://tvzvezda.ru/player.html?stream=m3u8
+#EXTINF:-1 tvg-id="tnt.ru" tvg-name="ТНТ" tvg-logo="",ТНТ
+https://tnt-online.ru/stream.m3u8
+#EXTINF:-1 tvg-id="ctc.ru" tvg-name="СТС" tvg-logo="",СТС
+https://ctc-online.ru/stream.m3u8
+#EXTINF:-1 tvg-id="domashniy.ru" tvg-name="Домашний" tvg-logo="",Домашний
+https://domashniy-online.ru/stream.m3u8
+#EXTINF:-1 tvg-id="ren.ru" tvg-name="РЕН ТВ" tvg-logo="",РЕН ТВ
+https://ren-tv.online/stream.m3u8
+#EXTINF:-1 tvg-id="spas.ru" tvg-name="Спас" tvg-logo="",Спас
+https://spastv.ru/stream.m3u8
+#EXTINF:-1 tvg-id="mir.ru" tvg-name="Мир" tvg-logo="",Мир
+https://mir24.tv/stream.m3u8
+#EXTINF:-1 tvg-id="muztv.ru" tvg-name="Муз-ТВ" tvg-logo="",Муз-ТВ
+https://muz-tv.online/stream.m3u8
+#EXTINF:-1 tvg-id="karusel.ru" tvg-name="Карусель" tvg-logo="",Карусель
+https://karusel-tv.ru/stream.m3u8
+#EXTINF:-1 tvg-id="kultura.ru" tvg-name="Культура" tvg-logo="",Культура
+https://culture-online.ru/stream.m3u8
+#EXTINF:-1 tvg-id="che.ru" tvg-name="ЧЕ!" tvg-logo="",ЧЕ!
+https://che-online.ru/stream.m3u8
+#EXTINF:-1 tvg-id="friday.ru" tvg-name="Пятница!" tvg-logo="",Пятница!
+https://friday-online.ru/stream.m3u8
+#EXTINF:-1 tvg-id="super.ru" tvg-name="Суббота!" tvg-logo="",Суббота!
+https://super-online.ru/stream.m3u8
