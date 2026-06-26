@@ -1,41 +1,41 @@
-#EXTM3U url-tvg="http://iptv-org.github.io/epg/guides/ru/tv.xml.gz"
-#EXTINF:-1 tvg-id="1tv.ru" tvg-name="Первый канал" tvg-logo="",Первый канал
+#EXTM3U
+#EXTINF:-1 tvg-id="1tv.ru" tvg-name="Первый канал" tvg-logo="1tv.png",Первый канал
 https://stream.1tv.ru/live/index.m3u8
-#EXTINF:-1 tvg-id="russia1.ru" tvg-name="Россия 1" tvg-logo="",Россия 1
+#EXTINF:-1 tvg-id="russia1.ru" tvg-name="Россия 1" tvg-logo="russia1.png",Россия 1
 https://vgtrk.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-id="5tv.ru" tvg-name="Пятый канал" tvg-logo="",Пятый канал
+#EXTINF:-1 tvg-id="5tv.ru" tvg-name="Пятый канал" tvg-logo="5tv.png",Пятый канал
 https://5-tv.cdnvideo.ru/5tv/0/5tv-hd/index.m3u8
-#EXTINF:-1 tvg-id="ntv.ru" tvg-name="НТВ" tvg-logo="",НТВ
+#EXTINF:-1 tvg-id="ntv.ru" tvg-name="НТВ" tvg-logo="ntv.png",НТВ
 https://ntv-hls.cdnvideo.ru/ntv/0/ntv-hd/index.m3u8
-#EXTINF:-1 tvg-id="tnt.ru" tvg-name="ТНТ" tvg-logo="",ТНТ
+#EXTINF:-1 tvg-id="tnt.ru" tvg-name="ТНТ" tvg-logo="tnt.png",ТНТ
 https://tnt-hls.cdnvideo.ru/tnt/0/tnt-hd/index.m3u8
-#EXTINF:-1 tvg-id="ctc.ru" tvg-name="СТС" tvg-logo="",СТС
+#EXTINF:-1 tvg-id="ctc.ru" tvg-name="СТС" tvg-logo="ctc.png",СТС
 https://ctc-hls.cdnvideo.ru/ctc/0/ctc-hd/index.m3u8
-#EXTINF:-1 tvg-id="tvc.ru" tvg-name="ТВ Центр" tvg-logo="",ТВ Центр
+#EXTINF:-1 tvg-id="tvc.ru" tvg-name="ТВ Центр" tvg-logo="tvc.png",ТВ Центр
 https://tvc-hls.cdnvideo.ru/tvc/0/tvc-hd/index.m3u8
-#EXTINF:-1 tvg-id="zvezda.ru" tvg-name="Звезда" tvg-logo="",Звезда
+#EXTINF:-1 tvg-id="zvezda.ru" tvg-name="Звезда" tvg-logo="zvezda.png",Звезда
 https://zvezda-hls.cdnvideo.ru/zvezda/0/zvezda-hd/index.m3u8
-#EXTINF:-1 tvg-id="mir.ru" tvg-name="Мир" tvg-logo="",Мир
+#EXTINF:-1 tvg-id="mir.ru" tvg-name="Мир" tvg-logo="mir.png",Мир
 https://mir-hls.cdnvideo.ru/mir/0/mir-hd/index.m3u8
-#EXTINF:-1 tvg-id="spas.ru" tvg-name="Спас" tvg-logo="",Спас
+#EXTINF:-1 tvg-id="spas.ru" tvg-name="Спас" tvg-logo="spas.png",Спас
 https://spas-hls.cdnvideo.ru/spas/0/spas-hd/index.m3u8
-#EXTINF:-1 tvg-id="domashniy.ru" tvg-name="Домашний" tvg-logo="",Домашний
+#EXTINF:-1 tvg-id="domashniy.ru" tvg-name="Домашний" tvg-logo="domashniy.png",Домашний
 https://domashniy-hls.cdnvideo.ru/domashniy/0/domashniy-hd/index.m3u8
-#EXTINF:-1 tvg-id="pyatnitsa.ru" tvg-name="Пятница!" tvg-logo="",Пятница!
+#EXTINF:-1 tvg-id="pyatnitsa.ru" tvg-name="Пятница!" tvg-logo="pyatnitsa.png",Пятница!
 https://pyatnitsa-hls.cdnvideo.ru/pyatnitsa/0/pyatnitsa-hd/index.m3u8
-#EXTINF:-1 tvg-id="karusel.ru" tvg-name="Карусель" tvg-logo="",Карусель
+#EXTINF:-1 tvg-id="karusel.tv" tvg-name="Карусель" tvg-logo="karusel.png",Карусель
 https://karusel-hls.cdnvideo.ru/karusel/0/karusel-hd/index.m3u8
-#EXTINF:-1 tvg-id="muztv.ru" tvg-name="Муз-ТВ" tvg-logo="",Муз-ТВ
-https://muztv-hls.cdnvideo.ru/muztv/0/muztv-hd/index.m3u8
-#EXTINF:-1 tvg-id="yu.ru" tvg-name="Ю" tvg-logo="",Ю
+#EXTINF:-1 tvg-id="muz-tv.ru" tvg-name="Муз-ТВ" tvg-logo="muz-tv.png",Муз-ТВ
+https://muz-tv-hls.cdnvideo.ru/muz-tv/0/muz-tv-hd/index.m3u8
+#EXTINF:-1 tvg-id="yu.ru" tvg-name="Ю" tvg-logo="yu.png",Ю
 https://yu-hls.cdnvideo.ru/yu/0/yu-hd/index.m3u8
-#EXTINF:-1 tvg-id="2x2.ru" tvg-name="2х2" tvg-logo="",2х2
+#EXTINF:-1 tvg-id="2x2.ru" tvg-name="2х2" tvg-logo="2x2.png",2х2
 https://2x2-hls.cdnvideo.ru/2x2/0/2x2-hd/index.m3u8
-#EXTINF:-1 tvg-id="otr.ru" tvg-name="ОТР" tvg-logo="",ОТР
-https://otr-hls.cdnvideo.ru/otr/0/otr-hd/index.m3u8
-#EXTINF:-1 tvg-id="tv3.ru" tvg-name="ТВ-3" tvg-logo="",ТВ-3
+#EXTINF:-1 tvg-id="otv.ru" tvg-name="ОТР" tvg-logo="otv.png",ОТР
+https://otv-hls.cdnvideo.ru/otv/0/otv-hd/index.m3u8
+#EXTINF:-1 tvg-id="tv3.ru" tvg-name="ТВ-3" tvg-logo="tv3.png",ТВ-3
 https://tv3-hls.cdnvideo.ru/tv3/0/tv3-hd/index.m3u8
-#EXTINF:-1 tvg-id="ren.ru" tvg-name="РЕН ТВ" tvg-logo="",РЕН ТВ
-https://ren-hls.cdnvideo.ru/ren/0/ren-hd/index.m3u8
-#EXTINF:-1 tvg-id="kultura.ru" tvg-name="Культура" tvg-logo="",Культура
-https://kultura-hls.cdnvideo.ru/kultura/0/kultura-hd/index.m3u8
+#EXTINF:-1 tvg-id="spas.ru" tvg-name="Спас" tvg-logo="spas.png",Спас
+https://spas-hls.cdnvideo.ru/spas/0/spas-hd/index.m3u8
+#EXTINF:-1 tvg-id="mir.ru" tvg-name="Мир" tvg-logo="mir.png",Мир
+https://mir-hls.cdnvideo.ru/mir/0/mir-hd/index.m3u8
